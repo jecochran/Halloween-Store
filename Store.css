@@ -1,0 +1,44 @@
+body {
+    background: #221e22;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Tsukimi Rounded', sans-serif;
+}
+
+#mainNavbar {
+    font-size: 1.3rem;
+    font-weight: 100;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #ff7900;
+}
+
+#mainNavbar .navbar-brand {
+    color: #ff7900;
+    font-size: 1.5rem;
+
+}
+
+svg {
+    color: #9d4edd;
+
+}
+
+#section2 {
+    font-weight: 100;
+    color: white;
+}
+
+#section3 {
+    font-weight: 100;
+    color: white;
+}
+
+p {
+    color: #a8ba9a;
+    line-height: 2;
+}
+
+.scrolled {
+    background-color: #221e22 !important;
+}
